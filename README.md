@@ -1,8 +1,9 @@
 <!-- ![wordcloud](assets/kene_cholor_no_bg.png) -->
 
-<!-- ![wordcloud](assets/kene_cholor_wc.png) -->
+![wordcloud](assets/kene_cholor_wc.png)
 
-![wordcloud](assets/kene_cholor_wc_bg_2.png)
+<!-- ![wordcloud](assets/kene_cholor_wc_bg_2.png) -->
+
 ![wordcloud](assets/localwc.png)
 
 # nlp-thesis
