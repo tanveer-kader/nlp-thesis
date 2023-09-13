@@ -1,4 +1,5 @@
 ![wordcloud](assets/kene_cholor_wc.png)
+![wordcloud](assets/localwc.png)
 
 # nlp-thesis
 
