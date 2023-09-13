@@ -1,4 +1,4 @@
-![wordcloud](assets/word_cloud_wide.png)
+![wordcloud](assets/localwc.png)
 
 # nlp-thesis
 
