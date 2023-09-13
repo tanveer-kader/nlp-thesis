@@ -1,3 +1,4 @@
+![wordcloud](assets/kene_cholor_no_bg.png)
 ![wordcloud](assets/kene_cholor_wc.png)
 ![wordcloud](assets/localwc.png)
 
