@@ -7,18 +7,15 @@
 
 <!-- ![wordcloud](assets/localwc.png) -->
 
-# nlp-thesis
+# Research
 
 Undergrad Research Work
 
 ## Publication
 
-International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2022). <br>
-ECE faculty of RUET organizes this conference once every 2 years.
+- Bangla Language Dialect Classification using Machine Learning. [Read Me!](https://ieeexplore.ieee.org/abstract/document/10114552)
 
-## IEEE
-
-Bangla Language Dialect Classification using Machine Learning. [Read Me!](https://ieeexplore.ieee.org/abstract/document/10114552)
+> International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2022). ECE faculty of RUET organizes this conference once every 2 years.
 
 ## Google Scholar
 
