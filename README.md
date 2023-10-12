@@ -3,6 +3,8 @@
 ![wordcloud](assets/kene_cholor_wc.png)
 ![wordcloud](assets/ara.png)
 
+> these word clouds made from local bengali language
+
 <!-- ![wordcloud](assets/kene_cholor_wc_bg_2.png) -->
 
 <!-- ![wordcloud](assets/localwc.png) -->
