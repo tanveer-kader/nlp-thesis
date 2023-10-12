@@ -9,9 +9,9 @@
 
 # Research
 
-<!-- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=GIAwRq4AAAAJ) -->
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=GIAwRq4AAAAJ)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?style=flat&logo=google-scholar&logoColor=white&color=yellow)](https://scholar.google.com/citations?user=GIAwRq4AAAAJ)
+<!-- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?style=flat&logo=google-scholar&logoColor=white&color=yellow)](https://scholar.google.com/citations?user=GIAwRq4AAAAJ) -->
 
 Undergrad Research Work in Natural Language Processing
 
