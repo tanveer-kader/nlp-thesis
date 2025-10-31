@@ -19,5 +19,10 @@ Undergrad Research Work in Natural Language Processing
 
 ## Publications
 
-- Bangla Language Dialect Classification using Machine Learning. [Read Me!](https://ieeexplore.ieee.org/abstract/document/10114552)
-  > 4th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2022). <br> ECE faculty of RUET organizes this conference once every 2 years.
+- > ***2025***  
+  **A Deep Learning Approach: The Impact of Sentiment Analysis of Bangladeshi Workers over the World.** [Read Paper](https://bsj.uobaghdad.edu.iq/home/vol22/iss10/30/)  
+  BAGHDAD SCIENCE JOURNAL 2025;22(10):3559–3572
+
+- > ***2022***  
+  **Bangla Language Dialect Classification using Machine Learning.** [Read Paper](https://ieeexplore.ieee.org/abstract/document/10114552)  
+  4th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2022). <br> ECE faculty of RUET organizes this conference once every 2 years.
